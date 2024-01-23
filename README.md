@@ -21,30 +21,8 @@ the strange energy as it's power source to neutralise or completely destroy thos
     It is really easy to repair (it can self repair to some degree) but is extremely fragile. Operators advised to avoid getting hit by aliens at all cost.
     For some reason aliens neutralise themselves after a certain period of time passes when The Cube is near them. Reasons unknown.
 
-"I wonder how it was created."
+"I wonder how it was created. And why a cube? Were the creators of this was THAT lazy?"
 
 -Menus
 
     For now, we don't have a GUI to plan deployment and/or select equipment for the mission. Will be added. Probably.
-
-## Planned to develop:
--PC: "Sheffy"
-
-    A female, blonde, british, maid created to fight aliens.
-    She has high movement speed and can dodge quickly for longer distances.
-    *Weapon information is confidential for now.*
-    Can only be deployed near water (oceans or seas).
-    Has a battle cruiser nearby. It is modified to damage aliens. But it's reload time is significantly increased.
-
-"Why a maid? This is too specific to be not a fetish. lol"
-
--Boss: "Takeshi"
-
-    Detected by an operator called Takeshi. He decided to give it his own name and management agreed. They both said "for shits and giggles." *sigh*
-    A humanoid alien that has ability to close-in without moving it's energy core. Can move vertically.
-    Has strong melee attacks and weak but fast moving projectiles.
-    It has an outer armor. Looks like a samurai armor. Details unknown.
-
-"Samurai aliens? Hell yeah!"
-
-    
