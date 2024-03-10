@@ -6,14 +6,14 @@ and player has to use specifically developped devices that's using
 the strange energy as it's power source to neutralise or completely destroy those aliens
 
 ## In development:
--Player Character: The Core
+-Boss: The Core
 
     A green sphere like life form. It was the first alien to appear. 
     It has pretty simple attack pattern. Rapidly shoots big, relatively slow moving spheres.
     
 "Should be easy to deal with."
 
--Boss: The Cube:
+-Player Character: The Cube
 
     An artefact that was found in the deepest hole of the world. It automatically activates itself when near an alien and     
     turns into a suit that an operator can use. 
